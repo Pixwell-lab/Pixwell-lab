@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Web Development, digital art and Sports.
-- 🌱 I’m currently learning git and github, in addition to Javascript. I'm currently studing Software Engineering at University.
+- 🌱 I’m currently learning git and github, in addition to Javascript. I'm currently studying Software Engineering at University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: pixwell22@gmail.com
 
