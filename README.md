@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Pixwell-lab
-
-
-- 👀 I’m interested in Web Development, digital art and sports.
-- 🌱 I’m currently learning git and github, in addition to Javascript. I'm currently studying Software Engineering at University.
-- 💞️ I’m looking to collaborate on ...
-- <!---
-- 📫 How to re__ach me: pixwell22@gmail.com
+👋 Hi, I’m Pixwell!! 👋
 
 --->
 
